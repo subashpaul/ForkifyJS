@@ -6,6 +6,8 @@ import bookmarksView from './view/bookmarksView.js';
 import searchView from './view/searchView.js';
 import resultsView from './view/resultsView.js';
 import paginationView from './view/paginationView.js';
+import addRecipeView from './view/addRecipeView.js';
+
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
